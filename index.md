@@ -3,13 +3,13 @@
   <tr>
     <td width="75%">
       <h1>孙逸龙</h1>
-      <p><b>本科二年级</b></p>
-      <p><b>海南大学</b></p>
-      <p><b>邮箱：1731714633@qq.com</b></p>
-      <p><b>地址：海南省海口市美兰区海南大学</b></p>
+      <p><b>本科</b></p>
+      <p><b>海南大学管理学院</b></p>
+      <p><b>邮箱：sun.yl@hainanu.edu.cn </b></p>
+      <p><b>地址：海南省海口市美兰区人民路 海南大学 </b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="90%">     
+      <img src="/zhengjianzhao.jpg" width="80%">     
     </td>
   </tr>
 </table>
