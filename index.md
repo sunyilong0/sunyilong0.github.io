@@ -54,6 +54,7 @@
 
 
 ### 所获荣誉
+
 - 2020年7月 主持与参与国家级大学生创新创业训练计划两项
 - 2020年6月 海南大学机器人与人工智能协会荣誉会员
 - 2019-2020年度 海南大学“创新创业先锋”
@@ -75,6 +76,7 @@
 - 全国计算机二级证书（MS Office）
 
 ### 已撰写论文
+
 - Minghan Chen, Yilong Sun, Xueqing Cai, Boyi Liu, Tenglong Ren. Design and Implementation of A Novel Precision Irrigation Robot Based on An Intelligent Path Planning Algorithm . 2020 .（正在修改中,暂未发表）   https://arxiv.org/abs/2003.00676
 - 数学建模论文：基于多层级预测的零售产品的需求分析 ——国家一等奖 http://www.mathorcup.org/detail/2298
 - 数学建模论文：基于多因素指标的信贷策略评价分析 ——海南省一等奖 https://blog.csdn.net/m_1153/article/details/108940606
