@@ -31,6 +31,14 @@
 - 2020年3月 小米5G手机数据挖掘分析与预测
 - 2020年5月 海南省疫情后旅游业增长情况预测
 
+
+### 已撰写论文
+
+- Minghan Chen, Yilong Sun, Xueqing Cai, Boyi Liu, Tenglong Ren. Design and Implementation of A Novel Precision Irrigation Robot Based on An Intelligent Path Planning Algorithm . 2020 .（正在修改中,暂未发表）   https://arxiv.org/abs/2003.00676
+- 数学建模论文：基于多层级预测的零售产品的需求分析 ——国家一等奖 http://www.mathorcup.org/detail/2298
+- 数学建模论文：基于多因素指标的信贷策略评价分析 ——海南省一等奖 https://blog.csdn.net/m_1153/article/details/108940606
+
+
 ### 所获荣誉
 
 - 2020年9月 全国大学生数学建模竞赛海南省一等奖 【已推荐至国家评奖】
@@ -73,12 +81,6 @@
 
 - 实用新型专利一项（专利号 201922196614.2）
 - 全国计算机二级证书（MS Office）
-
-### 已撰写论文
-
-- Minghan Chen, Yilong Sun, Xueqing Cai, Boyi Liu, Tenglong Ren. Design and Implementation of A Novel Precision Irrigation Robot Based on An Intelligent Path Planning Algorithm . 2020 .（正在修改中,暂未发表）   https://arxiv.org/abs/2003.00676
-- 数学建模论文：基于多层级预测的零售产品的需求分析 ——国家一等奖 http://www.mathorcup.org/detail/2298
-- 数学建模论文：基于多因素指标的信贷策略评价分析 ——海南省一等奖 https://blog.csdn.net/m_1153/article/details/108940606
 
 
 ### 工作实习经历
