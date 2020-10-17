@@ -3,9 +3,9 @@
   <tr>
     <td width="75%">
       <h1>孙逸龙</h1>
-      <p><b>本科三年级</b></p>
+      <p><b>本科三年级————信息管理与信息系统专业（管理科学与工程系）</b></p>
       <p><b>学校：海南大学</b></p>
-      <p><b>邮箱：sun.yl@hainanu.edu.cn </b></p>
+      <p><b>邮箱：yl.sun@hainanu.edu.cn </b></p>
       <p><b>地址：海南省海口市美兰区人民路 </b></p>
     </td>
     <td width="25%">
