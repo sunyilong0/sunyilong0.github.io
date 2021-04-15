@@ -5,7 +5,7 @@
       <h1>孙逸龙</h1>
       <p><b>本科三年级————信息管理与信息系统专业（管理科学与工程系）</b></p>
       <p><b>学校：海南大学</b></p>
-      <p><b>邮箱：yl.sun@hainanu.edu.cn </b></p>
+      <p><b>邮箱：yl.sun@ieee.org，yl.sun@hainanu.edu.cn </b></p>
       <p><b>地址：海南省海口市美兰区人民路 </b></p>
     </td>
     <td width="25%">
@@ -16,7 +16,7 @@
 
 ### 个人简介
 
-- 海南大学2018级信息管理与信息系统专业；曾任海南大学大学生创新院干部、共青团海南大学城西校区工作委员会干事与海南大学机器人与人工智能协会办公室负责人； IEEE会员；连续两年荣获海南大学“创新创业先锋”“优秀共青团员”；获得包括全国大学生数学建模竞赛国家一等奖、第六届“互联网+”创新创业大赛国赛铜奖、第十二届“挑战杯”海南省金奖、第十五届泛珠三角计算机作品赛全国一等奖等十余项国家级、省级奖励；获得实用新型专利一项，申报实用新型专利两项，主持并参与国家级大学生创新创业项目两项。
+- 2018级信息管理与信息系统专业,海南大学机器人与人工智能协会会员；连续两年荣获海南大学“创新创业先锋”“优秀共青团员”“最具创新精神和实践能力大学生”等多项荣誉；作为主要负责人获得包括全国大学生数学建模竞赛国家一等奖、第六届“互联网+”创新创业大赛国赛铜奖与省赛金奖、第十二届“挑战杯”国赛铜奖与省赛金奖、第十五届泛珠三角计算机作品赛全国一等奖与全国移动互联创新大赛国家级二等奖等十九项国家级、省级奖励；获得实用新型专利两项，软件著作权三项，申报实用新型专利两项，主持并参与国家级大学生创新创业项目两项。IEEE会员，IEEE International Conference on Real-time Computing and Robotics 等会议审稿人。
 ### 项目方向
 目前会使用树莓派等物联网设备进行组件功能实现；能够训练简单深度学习模型；对“联邦学习”与“迁移学习”方向有一定了解。未来想要向深度学习底层方向学习，有计划读研深造，不做单纯的调包侠。
 - **物联网设备与图像识别**
@@ -34,25 +34,22 @@
 
 ### 已撰写论文
 
-- Minghan Chen, Yilong Sun, Xueqing Cai, Boyi Liu, Tenglong Ren. Design and Implementation of A Novel Precision Irrigation Robot Based on An Intelligent Path Planning Algorithm . 2020 .（正在修改中,暂未发表）   https://arxiv.org/abs/2003.00676
+- Minghan Chen, **Yilong Sun**, Xueqing Cai, Boyi Liu, Tenglong Ren. Design and Implementation of A Novel Precision Irrigation Robot Based on An Intelligent Path Planning Algorithm . 2020. https://arxiv.org/abs/2003.00676. （submitted）
+- **Yilong Sun**, Jieren Cheng, Minghan Chen, Manling Zeng,Zhiwei Fan, Jingzheng Sun, Jiang Liu, Zhuoxian Chen and Yixiu Wang. Multi-dimensional fatigue driving detection method based on SVM improved by the kernel function. 2020 (EI会议ICRA接收)
+- Zheng Z, Zhou Y,** Sun Y**, et al. Federated Learning in Smart Cities: A Comprehensive Survey[J]. arXiv preprint arXiv:2102.01375, 2021.（submitted）
 - 2020年 MathorCup高校数学数学建模论文：基于多层级预测的零售产品的需求分析 ——国家一等奖 http://www.mathorcup.org/detail/2298
 - 2020年全国大学生数学建模比赛论文：基于多因素指标的信贷策略评价分析 ——国家一等奖 https://blog.csdn.net/m_1153/article/details/108940606
-- Yilong Sun1, Jieren Cheng, Minghan Chen, Manling Zeng,Zhiwei Fan, Jingzheng Sun, Jiang Liu, Zhuoxian Chen and Yixiu Wang. Multi-dimensional fatigue driving detection method based on SVM improved by the kernel function. 2020 (EI会议ICRA接收)
 
 
 ### 所获荣誉
 
-
-
-
-
+- 2021年1月 全国移动互联创新大赛全国二等奖
 - 2020年12月 中国高校计算机大赛-人工智能创意赛全国三等奖、最佳案例奖（全国仅5个名额）、优质开源项目奖 
 - 2020年12月 第十二届“挑战杯”大学生创业计划竞赛国家铜奖 （教育部）
 - 2020年11月 第三届海南大学创客马拉松金奖
 - 2020年11月 全国大学生数学建模竞赛 全国一等奖（海南省唯一的一等奖，全国获奖比例0.64%）
-- 2020年10月 第十五届泛珠三角计算机作品赛 全国一等奖（全国第二名，于澳门理工学院颁奖）
+- 2020年10月 第十五届泛珠三角计算机作品赛 全国一等奖
 - 2020年10月 第六届“互联网+”大学生创新创业大赛国赛铜奖 （教育部）
-
 - 2020年10月 第十四届iCAN国际创新创业大赛华南赛区三等奖
 - 2020年9月 全国大学生数学建模竞赛海南省一等奖 
 - 2020年9月 2020泛珠三角大学生计算机作品赛海南赛区一等奖（海南省教育厅）
@@ -74,7 +71,8 @@
 
 
 ### 所获荣誉
-
+- 2021年4月 海南大学“优秀共青团员”
+- 2021年3月 荣获“最具创新精神和实践能力大学生”荣誉称号
 - 2020年10月 国家励志奖学金  
 - 2020年7月 主持与参与国家级大学生创新创业训练计划两项
 - 2020年6月 海南大学机器人与人工智能协会荣誉会员
@@ -96,13 +94,9 @@
 
 - 2020年11月  海南大学社团联合会 官方公众号：全国大学生数学建模竞赛——海南省唯一国家级一等奖花落机器人与人工智能协会， https://mp.weixin.qq.com/s/C1QARKVZyHRZYu5CokqVyQ
 
-- 2020年11月  海南大学：海南大学计算机与网络空间安全学院团队项目在2020泛珠三角+大学生计算机作品赛全国总决赛中斩获一等奖， https://ha.hainanu.edu.cn/vnew/info/1002/27734.htm
-
 - 2020年11月 海南大学马克思主义学院团委 官方公众号：马克思主义学院2020年创新创业讲座暨赛前培训会圆满结束  ，地址：https://mp.weixin.qq.com/s/IFrUcxJ1JQESaq-K63-dbg
 
 - 2020年11月  海南大学社团联合会 官方公众号：闪耀大湾区！机器人与人工智能协会力压粤港澳众多名校夺得“泛珠三角”大学生计算机作品 总决赛一等奖！“  ，地址：https://mp.weixin.qq.com/s/D3OAXpXZ2BZnI_Qey-27pQ
-
-- 2020年11月 海南大学计算机与网络空间安全学院团委 官方公众号： 喜讯 | 计算机与网络空间安全学院（密码学院）在2020泛珠三角+大学生计算机作品赛全国总决赛中荣获一等奖 ，地址：https://mp.weixin.qq.com/s/B39Wdio1iqtTNGTjORug0Q
 
 - 2020年10月 海南省计算机学会 官方公众号：2020泛珠三角大学生计算机作品赛海南省赛获奖结果，地址：https://mp.weixin.qq.com/s/LztiB6KI0N50DhvsdghuQQ
 
@@ -112,15 +106,11 @@ https://mp.weixin.qq.com/s/d0_Lmf7vu1w5CZZwXTKP5A
 - 2020年4月  海南大学社团联合会 官方公众号：防疫在行动｜海大学子成功研制防疫机器人  ，地址：https://mp.weixin.qq.com/s/ILVFwZ3c52UPbIiaKVwi5A
 
 
-### 所获证书
-
-- 实用新型专利一项（专利号 201922196614.2）
-- 全国计算机二级证书（MS Office）
-
 
 ### 工作实习经历
 
-- 2020年2月-2020年7月：在广东省“星火教育”惠州分校运营部实习，提升演讲水平。
+- 2020年8月：参加中国高校计算机大赛组委会与百度公司联合举办的Geek Youth创造站人工智能集训营，并荣获优秀营员称号。
+- 2020年2月-2020年7月：在广东省“星火教育”深圳分校运营部实习，负责数据操作处理。
 - 2019年12月-2020年3月：在A-RAI 团队中合作开展项目，提升论文写作与图片绘制能力。
 - 2019年9月-2020年8月：就任海南大学机器人与人工智能协会办公室主任，进一步学习有关人工智能基础领域知识，研发出“口罩检测佩戴小盒”并参与多功能路径规划防疫车项目研发。
 - 2019年9月-2020年2月：在海口市森森圆梦教育咨询有限公司就职信息管理员，整理分析客户有关信息，并与公司前辈共同改进数据库管理系统。
