@@ -28,7 +28,7 @@
 - **Yilong Sun**, Jieren Cheng, Minghan Chen, Manling Zeng,Zhiwei Fan, Jingzheng Sun, Jiang Liu, Zhuoxian Chen and Yixiu Wang. Multi-dimensional fatigue driving detection method based on SVM improved by the kernel function. 2020 (已被EI期刊ICRA收录)
 - Zheng Z, Zhou Y,** **Sun Y**, et al. Federated Learning in Smart Cities: A Comprehensive Survey[J]. arXiv preprint arXiv:2102.01375, 2021.（已被SCI期刊Connection Science收录）
 - Minghan Chen, **Yilong Sun**, Xueqing Cai, Boyi Liu, Tenglong Ren. Design and Implementation of A Novel Precision Irrigation Robot Based on An Intelligent Path Planning Algorithm . 2020. https://arxiv.org/abs/2003.00676. （Submitted）
-- 2020年高教杯全国大学生数学建模经竞赛论文：基于多因素指标的信贷策略评价分析 ——国家一等奖 https://blog.csdn.net/m_1153/article/details/108940606
+- 第29届“高教社杯”全国大学生数学建模竞赛论文：基于多因素指标的信贷策略评价分析 ——国家一等奖 https://blog.csdn.net/m_1153/article/details/108940606
 - 2020年 MathorCup高校数学数学建模论文：基于多层级预测的零售产品的需求分析 ——国家一等奖 http://www.mathorcup.org/detail/2298
 
 
@@ -36,9 +36,9 @@
 ###  所获竞赛奖励
 
 #### 国家级奖励
-- 2020年11月 全国大学生数学建模竞赛 全国一等奖（海南省唯一的一等奖，全国获奖比例0.64%）
+- 2020年11月 第二十九届全国大学生数学建模竞赛 全国一等奖（海南省唯一的一等奖，全国获奖比例0.64%，A类竞赛）
 - 2020年10月 第十五届泛珠三角计算机作品赛 全国一等奖、最佳实用奖 （十五个省的计算机学会联合举办）
-- 2021年  1月 全国移动互联创新大赛全国二等奖（工业和信息化部联合主办）
+- 2021年  1月 第六届全国移动互联创新大赛全国二等奖（工业和信息化部联合主办）
 - 2020年12月 第十二届“挑战杯”大学生创业计划竞赛国家铜奖 （教育部）
 - 2020年10月 第六届“互联网+”大学生创新创业大赛国赛铜奖 （教育部）
 - 2020年12月 中国高校计算机大赛-人工智能创意赛全国三等奖、最佳案例奖（全国仅5个名额）、优质开源项目奖 （教育部）
