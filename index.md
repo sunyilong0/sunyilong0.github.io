@@ -25,9 +25,9 @@
 
 ### 已撰写论文
 
-- **Yilong Sun**, Jieren Cheng, Minghan Chen, Manling Zeng,Zhiwei Fan, Jingzheng Sun, Jiang Liu, Zhuoxian Chen and Yixiu Wang. Multi-dimensional fatigue driving detection method based on SVM improved by the kernel function. 2020 (已被EI期刊ICRA收录)
-- Zheng Z, Zhou Y,** **Sun Y**, et al. Federated Learning in Smart Cities: A Comprehensive Survey[J]. arXiv preprint arXiv:2102.01375, 2021.（已被SCI期刊Connection Science收录）
-- Minghan Chen, **Yilong Sun**, Xueqing Cai, Boyi Liu, Tenglong Ren. Design and Implementation of A Novel Precision Irrigation Robot Based on An Intelligent Path Planning Algorithm . 2020. https://arxiv.org/abs/2003.00676. （Submitted，共同一作）
+- **Yilong Sun**, Jieren Cheng, Minghan Chen, Manling Zeng,Zhiwei Fan, Jingzheng Sun, Jiang Liu, Zhuoxian Chen and Yixiu Wang. Multi-dimensional fatigue driving detection method based on SVM improved by the kernel function. 2020 (CCIS, ISSN: 1865-0929, EI期刊)
+- Zheng Z, Zhou Y,** **Sun Y**, et al. Federated Learning in Smart Cities: A Comprehensive Survey[J]. arXiv preprint arXiv:2102.01375, 2021.（已被SCI期刊Connection Science收录，DOI号：10.1080/09540091.2021.1936455）
+- Minghan Chen, **Yilong Sun**, Xueqing Cai, Boyi Liu, Tenglong Ren. Design and Implementation of A Novel Precision Irrigation Robot Based on An Intelligent Path Planning Algorithm . 2020. https://arxiv.org/abs/2003.00676. （IEEE RCAR2021会议接收，共同一作）
 - 第29届“高教社杯”全国大学生数学建模竞赛论文：基于多因素指标的信贷策略评价分析 ——国家一等奖 https://blog.csdn.net/m_1153/article/details/108940606
 - 2020年 MathorCup高校数学数学建模论文：基于多层级预测的零售产品的需求分析 ——国家一等奖 http://www.mathorcup.org/detail/2298
 
