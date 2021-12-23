@@ -13,7 +13,8 @@
   </tr>
 </table>
 <a href="pdf/cv.pdf"><img border="0" src="images/pdf.png" height="13px" />个人简历下载</a>
-<a href="pdf/example.txt"><img border="0" src="images/pdf.png" height="13px" />TXT测试</a>,
+<a href="pdf/example.txt"><img border="0" src="images/pdf.png" height="13px" />TXT文件</a>
+<a href="pdf/cv.zip"><img border="0" src="images/pdf.png" height="13px" />Zip压缩包测试</a>
 
 ### 个人简介
 
