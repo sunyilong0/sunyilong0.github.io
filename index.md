@@ -13,6 +13,7 @@
     </td>
   </tr>
 </table>
+<a href="pdf/cv_cn.pdf"><img border="0" src="images/pdf.png" height="13px" />CV(CN)</a>,
 
 ### 个人简介
 
