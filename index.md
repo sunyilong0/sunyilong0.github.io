@@ -13,8 +13,8 @@
     </td>
   </tr>
 </table>
-<a href="pdf/cv.pdf"><img border="0" src="images/pdf.png" height="13px" />CV</a>
-<a href="pdf/example.txt"><img border="0" src="images/pdf.png" height="13px" />CV</a>,
+<a href="pdf/cv.pdf"><img border="0" src="images/pdf.png" height="13px" />个人简历下载</a>
+<a href="pdf/example.txt"><img border="0" src="images/pdf.png" height="13px" />TXT测试</a>,
 
 ### 个人简介
 
