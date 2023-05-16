@@ -23,7 +23,7 @@
 - 以第一与第二作者等身份发表 SCI、EI 检索论文三篇，受邀参加在爱尔兰的 Dublin 举办的国际会议上进行报告（疫情原因改为线上报告）。IEEE International Conference on Real-time Computing and Robotics 等会议审稿人，IEEE 学生分会发起人；
 - 连续多年荣获“创新创业先锋”“优秀共青团员”“最具创新精神和实践能力大学生”与国家级奖学金等多项荣誉。在某私募基金进行二级市场行业研究实习，针对通信（光模块、光纤与IDC）半导体等行业开展行业研究，量化金融数据。
 
-★ 编程语言：SQL (MySQL、SQL Server)，Python（numpy、 pandas、matplotlib），R，C#，MATLAB
+★ 编程语言：SQL (MySQL、SQL Server)，Python（TensorFlow、numpy、 pandas、matplotlib），R，C#，MATLAB
 
 ★ 掌握工具：SPSS，Bl-Tableau，MS-Office，Chat-GPT
 
