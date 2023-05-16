@@ -5,7 +5,7 @@
       <h1>孙逸龙</h1>
        <p><b>2022年9月-至今          华南理工大学 管理科学与工程系专业 （数据科学与决策管理方向）</b></p>
       <p><b>2018年9月-2022年6月 海南大学 信息管理与信息系统专业（管理科学与工程系）</b></p>
-      <p><b>邮箱：yl.su<防止爬虫>n0@qq.com </b></p>
+      <p><b>邮箱：yl.sun0@qq.com </b></p>
       <p><b>地址：广东省广州市 </b></p>
     </td>
     <td width="25%">
@@ -26,9 +26,9 @@
 
 ### 已撰写论文
 
-- **Yilong Sun**, Jieren Cheng, Minghan Chen, Manling Zeng,Zhiwei Fan, Jingzheng Sun, Jiang Liu, Zhuoxian Chen and Yixiu Wang. Multi-dimensional fatigue driving detection method based on SVM improved by the kernel function. 2020 (CCIS, ISSN: 1865-0929, EI期刊)
+- **Yilong Sun**, Jieren Cheng, Minghan Chen, Manling Zeng,Zhiwei Fan, Jingzheng Sun, Jiang Liu, Zhuoxian Chen and Yixiu Wang. Multi-dimensional fatigue driving detection method based on SVM improved by the kernel function. 2021 (CCIS, ISSN: 1865-0929, EI期刊)
 - Zheng Z, Zhou Y, **Yilong Sun**, et al. Federated Learning in Smart Cities: A Comprehensive Survey[J].（Connection Science，DOI：10.1080/09540091.2021.1936455，SCI期刊）
-- Minghan Chen, **Yilong Sun**, Xueqing Cai, Boyi Liu, Tenglong Ren. Design and Implementation of A Novel Precision Irrigation Robot Based on An Intelligent Path Planning Algorithm . 2020. （IEEE RCAR2021, DOI: 10.1109/RCAR49640.2020, Famous International Conference in Robotics，共同一作）
+- Minghan Chen, **Yilong Sun**, Xueqing Cai, Boyi Liu, Tenglong Ren. Design and Implementation of A Novel Precision Irrigation Robot Based on An Intelligent Path Planning Algorithm . 2021. （IEEE RCAR2021, DOI: 10.1109/RCAR49640.2020, Famous International Conference in Robotics，共同一作）
 - 第29届全国大学生数学建模竞赛论文：基于多因素指标的信贷策略评价分析 ——国家一等奖 （http://www.mcm.edu.cn/html_cn/node/15767d638d52e1d38c64ea910de792d1.html）
 - 第10届MathorCup高校数学建模挑战赛论文：基于多层级预测的零售产品的需求分析 ——国家一等奖 （http://www.mathorcup.org/detail/2295）
 
@@ -37,6 +37,7 @@
 ###  所获竞赛奖项
 
 #### 国家级
+- 2022年12月 中国高校计算机大赛-人工智能创意赛	国家级	二等奖
 - 2020年11月 第二十九届全国大学生数学建模竞赛 全国一等奖（本省唯一的一等奖，全国获奖比例0.64%，A类竞赛）
 - 2020年  6月 第十届MathorCup高校数学建模挑战赛国家一等奖（全国获奖比例5%，海南省唯一的一等奖，竞赛由华罗庚教授创建，国家一级学会中国优选法统筹法与经济数学研究会举办）
 - 2020年10月 第十五届泛珠三角计算机作品赛 全国一等奖 （十五个省的计算机学会联合举办）
@@ -50,11 +51,12 @@
 
 
 #### 省级
+- 2022年9月	中国高校计算机大赛-人工智能创意赛	省级	二等奖
+- 2021年 6月 第十一届大学生电子商务挑战赛 海南省一等奖
+- 2021年 6月 第十一届大学生电子商务挑战赛 海南省最佳创意奖
 - 2020年 9月 2020泛珠三角大学生计算机作品赛海南赛区一等奖（海南省教育厅）
 - 2020年 9月 第九届“挑战杯”大学生创业计划竞赛海南省金奖一项与银奖一项 （海南省教育厅）
 - 2020年 8月 第六届“互联网+”大学生创新创业大赛海南省金奖一项与银奖两项（海南省教育厅）
-- 2021年 6月 第十一届大学生电子商务挑战赛 海南省一等奖
-- 2021年 6月 第十一届大学生电子商务挑战赛 海南省最佳创意奖
 - 2020年 8月 中国高校计算机大赛-人工智能创意赛华南赛区二等奖 
 - 2020年 8月 海南自贸港创业大赛海南省三等奖
 - 2020年 8月 第四届“中国创翼”大赛海南选拔赛三等奖
@@ -64,12 +66,19 @@
 - 2019年 6月 第二届“股东来了”知识竞赛五省联赛荣获三等奖（央视与中国证监会举办）
 等 16项省级竞赛获奖
 
-
+### 所获专利、软著
+- 2021年2月	软件著作权“基于大数据分析的生活用品共享平台”
+- 2021年4月	软件著作权“一种多维度疲劳驾驶检测装置”
+- 2022年2月	软件著作权“一种基于多分类支持向量机的数据预测分析系统”
+- 2020年6月	实用新型专利一项（专利号201922196614.2）
+- 2021年10月	实用新型专利一项（专利号202121026145.0）
+- 2022年3月	实用新型专利一项（专利号202222017345.0）
 
 ### 新闻报道：
-- 2020年12月 海南特区报 专栏报道：海大有群 “发明家”  http://www.hntqb.com/html/2020-12/03/node_3040.htm
 
 - 2022年4月19日,人民日报客户端,海南大学学子造“道路安全小助手”助力疫情下物资安全运输 https://wap.peopleapp.com/article/rmh28060067/rmh28060067
+
+- 2020年12月 海南特区报 专栏报道：海大有群 “发明家”  http://www.hntqb.com/html/2020-12/03/node_3040.htm
 
 - 2020年11月  海南日报：海南大学一科研项目斩获全国大赛一等奖 ，https://hndaily.cn/api_hn/res/html/2020/11/10/cid_92_215770.html
 
@@ -95,16 +104,16 @@ https://mp.weixin.qq.com/s/d0_Lmf7vu1w5CZZwXTKP5A
 ### 项目方向
 主要方向为机器学习、金融科技；目前会使用树莓派等物联网设备进行组件功能实现；能够训练简单深度学习模型；对“联邦学习”与“迁移学习”方向有一定了解。
 - **物联网设备与图像识别**
-- 2020年2月20日 多人精确识别口罩佩戴检测小盒
-- 2020年4月29日 曙光二号疲劳驾驶检测装置
-- 2020年6月28日 智能路径规划消毒防疫多功能车
-- 2021年12月19日 盲***装置
+- 2021年2月20日 多人精确识别口罩佩戴检测小盒
+- 2021年4月29日 曙光二号疲劳驾驶检测装置
+- 2022年6月28日 智能路径规划消毒防疫多功能车
+- 2022年12月19日 盲***装置
 
 - **电子商务分析**
 - 2019年9月 基于数据分析的轻活共享生活用品平台项目
 
 - **数据挖掘处理**
-- 2020年3月 小米5G手机数据挖掘分析与预测
+- 2021年3月 小米5G手机数据挖掘分析与预测
 - 2020年5月 海南省疫情后旅游业增长情况预测
 
 ### 工作实习经历
@@ -120,6 +129,6 @@ https://mp.weixin.qq.com/s/d0_Lmf7vu1w5CZZwXTKP5A
 职位：算法工程师（实习）
 开始时间：2021 年 6 月
 结束时间：2021 年 7 月
-描述：参与“基于 SVM 的智慧城市运用”项目，学习有关机器学习与基础算法知识，与团队提前 15%时间完成任务，团队月绩效第一。
+描述：参与“疲劳驾驶检测”项目开发，利用Vgg16模型进行训练，迁移至物联网平台进行疲劳驾驶检测，精确度达到98.9%，耗电量相yolov4低30%。
 
 
